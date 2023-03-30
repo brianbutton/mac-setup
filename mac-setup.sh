@@ -47,7 +47,7 @@ unzip the-table.app.zip
 mv "The Table.app" /Applications/
 rm -r the-table.app.zip
 
-brew install eloquent visual-studio-code github firefox vlc ack wget iterm2 whatsapp google-chrome slack intellij-idea sourcetree keka rectangle clipy git node ansible pritunl leiningen
+brew install eloquent visual-studio-code tomighty github firefox vlc ack wget iterm2 whatsapp google-chrome slack intellij-idea sourcetree keka rectangle clipy git node ansible pritunl leiningen
 
 npm install -g grunt-cli
 
