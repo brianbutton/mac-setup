@@ -51,6 +51,9 @@ brew install eloquent visual-studio-code tomighty github firefox vlc ack wget it
 
 npm install -g grunt-cli
 
+
+brew install borkdude/brew/babashka
+brew install --cask racket
 brew install --cask docker
 brew install docker awscli mkcert
 brew tap AdoptOpenJDK/openjdk
